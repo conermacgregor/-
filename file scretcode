@@ -1,5 +1,7 @@
 <html>
-   <head></had>
+   <head></head>
    <body>
        <h1>Hello word</h1>
-       <h1 style="color:blue"> Good bye 
+       <h1 style="color:blue"> Good bye world</h1>
+   </body>
+</html>
